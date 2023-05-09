@@ -2,7 +2,7 @@
 /*FOLHA DE ESTILO PÁGINA -  [Home]*/
 
 body{
-	background:url('../imagens/fundo.jpg') repeat-x;
+	background:url('https://vivianaribeiro.github.io/meu-site/fundo.jpg') repeat-x;
 
    font-family: Arial, Helvetica, sans-serif;
   
@@ -64,7 +64,7 @@ div#banner{
   float:center;
   /*background: yellowgreen;
   
-  background: url("../imagens/banner_perfil.png") no-repeat;*/
+  background: url("https://vivianaribeiro.github.io/meu-site/banner_perfil.png") no-repeat;*/
   margin: 10px auto;
   position: relative;
    
